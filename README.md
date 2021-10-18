@@ -111,3 +111,42 @@ Sendo que da quantia total:
 • O segundo recebera 32%; 
 • O terceiro recebera o restante; 
 Calcule e imprima a quantia ganha por cada um dos ganhadores. 
+0. Uma empresa contrata um encanador a R$ 30,00 por dia. Fac¸a um programa que solicite
+o numero de dias trabalhados pelo encanador e imprima a quantia l ´ ´ıquida que devera ser ´
+paga, sabendo-se que sao descontados 8% para imposto de renda. ˜
+41. Fac¸a um programa que leia o valor da hora de trabalho (em reais) e numero de horas ´
+trabalhadas no mes. Imprima o valor a ser pago ao funcion ˆ ario, adicionando 10% sobre ´
+o valor calculado.
+42. Receba o salario-base de um funcion ´ ario. Calcule e imprima o sal ´ ario a receber, sabendo- ´
+se que esse funcionario tem uma gratificac¸ ´ ao de 5% sobre o sal ˜ ario-base. Al ´ em disso, ´
+ele paga 7% de imposto sobre o salario-base. ´
+43. Escreva um programa de ajuda para vendedores. A partir de um valor total lido, mostre:
+• o total a pagar com desconto de 10%;
+• o valor de cada parcela, no parcelamento de 3× sem juros;
+• a comissao do vendedor, no caso da venda ser a vista (5% sobre o valor com des- ˜
+conto)
+• a comissao do vendedor, no caso da venda ser parcelada (5% sobre o valor total) ˜
+44. Receba a altura do degrau de uma escada e a altura que o usuario deseja alcanc¸ar ´
+subindo a escada. Calcule e mostre quantos degraus o usuario dever ´ a subir para atingir ´
+seu objetivo.
+45. Fac¸a um programa que leia um numero inteiro positivo de tr ´ es d ˆ ´ıgitos (de 100 a 999).
+Gere outro numero formado pelos d ´ ´ıgitos invertidos do numero lido. Exemplo: ´
+NumeroLido = 123 ´
+NumeroGerado = 321. ´
+3
+46. Leia um numero inteiro de 4 d ´ ´ıgitos (de 1000 a 9999) e imprima 1 d´ıgito por linha.
+47. Leia um valor inteiro em segundos, e imprima-o em horas, minutos e segundos.
+48. Fac¸a um programa para leia o horario (hora, minuto e segundo) de inicio e a durac¸ ´ ao, em ˜
+segundos, de uma experiencia biol ˆ ogica. O programa deve resultar com o novo hor ´ ario ´
+(hora, minuto e segundo) do termino da mesma.
+49. Implemente um programa que calcule o ano de nascimento de uma pessoa a partir de
+sua idade e do ano atual.
+50. Escreva um programa que leia as coordenadas x e y de pontos no R2 e calcule sua
+distancia da origem ˆ (0, 0).
+51. Tres amigos jogaram na loteria. Caso eles ganhem, o pr ˆ emio deve ser repartido pro- ˆ
+porcionalmente ao valor que cada deu para a realizac¸ao da aposta. Fac¸a um programa ˜
+que leia quanto cada apostador investiu, o valor do premio, e imprima quanto cada um ˆ
+ganharia do premio com base no valor investido. ˆ
+52. Fac¸a um programa para ler as dimensoes de um terreno (comprimento ˜ c e largura l),
+bem como o prec¸o do metro de tela p. Imprima o custo para cercar este mesmo terreno
+com tela
